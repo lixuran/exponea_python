@@ -1,0 +1,15 @@
+churn rate variefy with different state but not alot within 10%
+
+
+customer who setting up voice mail have lower churn rate --- corelated 
+
+
+international plan means high churn rate.
+
+
+data from only people in area 415  408 510 
+
+acoount length seem to have no relation with churn rate.
+
+
+most people dont use vmail messages thus judging by it might be baised.
